@@ -1,0 +1,6 @@
+opencv-python>=4.7.0
+ultralytics>=8.0.0
+numpy>=1.22.0
+Pillow>=9.0.0
+# Optional: For RealSense camera support (commented out by default)
+# pyrealsense2>=2.50.0 
